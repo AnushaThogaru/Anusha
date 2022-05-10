@@ -7,7 +7,7 @@ public class ReadingDataFromCommandLineTest {
 public void readingdatafromtest()
 {
 	
-	System.out.println("executing pollscm3");
+	System.out.println("executing pollscm");
 	String URL=System.getProperty("url");
 	String UN=System.getProperty("username");
 	String PWD=System.getProperty("password");
